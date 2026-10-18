@@ -1,15 +1,19 @@
 <div align="center">
 
-# AI Execution Architect
+# Rustam Lukmanov
 
-### Shipping AI-assisted products without silent regressions.
+### AI Execution Architect
 
-**Creator of CogniForge** · AI agents · Web3 / Solana · Telegram-native products
+**Ship AI-assisted products without silent regressions.**
 
-I turn ambitious product ideas into structured engineering delivery: clear architecture, controlled AI-assisted implementation, reproducible QA, and evidence-backed handoffs.
+Creator of **CogniForge** · AI coding agents · Solana / Web3 · Telegram-native applications
 
+I help turn complex product ideas into structured, testable, AI-assisted software delivery. My focus is on product architecture, disciplined execution, integration, and evidence-based quality, not merely generating code.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rustam_Lukmanov-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rustamlukman/)
 [![GitHub](https://img.shields.io/badge/GitHub-ip624754-181717?logo=github&logoColor=white)](https://github.com/ip624754)
-[![NVRCLS](https://img.shields.io/badge/Live%20product-NVRCLS-0f766e)](https://nvrcls.pages.dev/)
+[![Telegram](https://img.shields.io/badge/Telegram-%40Stam__W3-26A5E4?logo=telegram&logoColor=white)](https://t.me/Stam_W3)
+[![NVRCLS](https://img.shields.io/badge/Live%20site-NVRCLS-0F766E)](https://nvrcls.pages.dev/)
 
 </div>
 
@@ -17,57 +21,67 @@ I turn ambitious product ideas into structured engineering delivery: clear archi
 
 ## What I do
 
-I work at the intersection of **product architecture, AI coding-agent orchestration, and engineering quality**. I define product behavior and system boundaries, coordinate AI-assisted development, challenge assumptions, and verify that results match specifications.
+I design and coordinate the development of digital products using modern AI coding agents and cloud infrastructure, with an emphasis on **clear ownership, observable behavior, and verified outcomes**.
 
-- **Architecture & product:** requirements, system design, API and integration planning, UX direction.
-- **AI execution:** ChatGPT, Codex and Claude workflows; scoped tasks, reviews and continuity.
-- **Quality & safety:** risk-adaptive change control, test evidence, regression checks, release and rollback gates.
-- **Domains:** Solana / Web3, Telegram automation, fintech workflows and e-commerce.
+- **Product & systems architecture:** requirements, system boundaries, API contracts, architecture decisions, and product UX.
+- **AI-assisted engineering:** structured implementation workflows with ChatGPT, Codex, and Claude; scoped execution and cross-session continuity.
+- **Quality & release control:** risk-adaptive checks, targeted regression testing, evidence, acceptance criteria, and rollback planning.
+- **Specialized domains:** Solana/Web3, NFT custody architecture, Telegram automation, fintech workflows, and e-commerce.
 
-> AI can accelerate implementation. It does not replace ownership of decisions, verification, or security boundaries.
+> **Principle:** An AI-generated implementation is not a verified result. Done is not evidence.
 
-## Selected work
+## Selected projects
 
-| Project | Scope | Status |
+| Project | My focus | Availability / maturity |
 | --- | --- | --- |
-| **CogniForge** | My framework for governing AI-assisted engineering: risk classes, evidence, acceptance and handoffs. Personal and commercial editions. | Evolving |
-| **SWB · Solana Alpha Tracker** | Solana wallet monitoring, Telegram alerts, data ingestion and operational observability. | Private codebase |
-| **SOLSAFE Genesis** | NFT-based multi-asset vault on Solana; custody, locking policies and security invariants. | In development / validation |
-| **ROIDCASH** | Investor-facing fintech workflows, administration and financial operations architecture. | Private codebase |
-| **WB Calm Buyer** | Telegram-native commerce product and marketplace integration workflows. | In development |
-| **NVRCLS** | Web3 product branding, UI direction and deployed landing experience. | [View site](https://nvrcls.pages.dev/) |
+| **CogniForge** | Creator of an AI engineering workflow and governance system with risk-adaptive execution, Truth Boundary, QA, and evidence-driven handoffs. | Personal and commercial editions; evolving |
+| **SWB · Solana Alpha Tracker** | Product architecture and AI-assisted delivery for Solana wallet monitoring, Telegram alerts, ingestion, and operational observability. | Private repository |
+| **SOLSAFE Genesis** | Product and protocol architecture for NFT-based, multi-asset Solana vaults, locking modes, custody constraints, and security validation. | In development and testing; no claim of completed independent security certification |
+| **ROIDCASH** | Fintech product workflows, investor/admin interfaces, accounting-related system design, and integrations. | Private repository |
+| **WB Calm Buyer** | Telegram-native commerce product, marketplace integrations, backend workflow and persistence design. | In development; private repository |
+| **NVRCLS** | Web3 product concept, branding, UI direction, landing-page delivery and launch workflows. | [Live landing page](https://nvrcls.pages.dev/) |
 
-*Some projects are private or under active development. Descriptions reflect product/architecture and AI-assisted engineering work, not claims of independent authorship of every line of code or completed third-party security audits.*
+*Project descriptions summarize my role in product direction, architecture, AI-assisted implementation and review. They do not imply that I manually wrote every line of code, nor that private systems are open source or independently certified.*
 
-## How I ship
+## How I work
 
 ```text
 BASELINE → SCOPED PLAN → IMPLEMENTATION → QA → EVIDENCE → ACCEPTANCE → HANDOFF
 ```
 
-- Apply **FAST / CONTROLLED / HEAVY** workflows based on actual risk.
-- Keep critical operations behind explicit approval and release gates.
-- Distinguish **VERIFIED** results from assumptions, proposals, and untested claims.
-- Prefer reversible changes, focused regression tests and traceable decisions.
+- **Risk-adaptive delivery:** FAST for low-risk changes; CONTROLLED for intermediate changes; HEAVY for sensitive security, custody, financial, and production boundaries.
+- **Truth Boundary:** keep VERIFIED findings separate from assumptions, proposals, unverified claims, and blockers.
+- **Regression discipline:** preserve working behavior, use focused tests, and tie release claims to evidence.
+- **Continuity:** clear artifacts and handoffs so work can continue across AI tools and sessions.
+- **Security gates:** approval before high-impact changes, especially custody, keys, production, and financial operations.
 
 ## Tools & ecosystems
 
-**AI-assisted engineering:** ChatGPT · Codex · Claude · GitHub
+**AI-assisted workflows:** ChatGPT · Codex · Claude · AI coding agents · Git / GitHub
 
-**Cloud & data integrations:** PostgreSQL · Neon · Cloudflare · Vercel · Railway · REST APIs
+**Infrastructure & data:** Cloudflare · Vercel · Railway · Neon · PostgreSQL · REST APIs
 
-**Product domains:** Solana · SPL tokens · NFT custody architecture · Telegram Bot API
+**Product ecosystems:** Solana · SPL token integrations · NFT custody architecture · Telegram Bot API
 
-*These are technologies used or encountered at the project level, not a claim of senior-level coding proficiency in every language or platform.*
+*Tools listed reflect real project exposure and orchestration experience, not a claim of independent senior-level coding expertise in each language or service.*
 
-## Background & collaboration
+## Background
 
-Active in the crypto/Web3 space since **2015**; building and directing AI-assisted digital products since **2023**.
+Active in the **crypto/Web3 industry since 2015**, including investment-related projects. Working on AI-assisted digital product development since **2023**.
 
-Interested in **AI-native product building, workflow architecture, technical product leadership, and collaborations where delivery quality matters**.
+Interested in collaborating with founders and teams on **AI-native product delivery, engineering workflows, Web3 infrastructure, and reliable integrations**.
 
-**Contact:** [GitHub profile](https://github.com/ip624754) · Add your LinkedIn profile URL here.
+## Contact
+
+- **LinkedIn:** [linkedin.com/in/rustamlukman](https://www.linkedin.com/in/rustamlukman/)
+- **Telegram:** [@Stam_W3](https://t.me/Stam_W3)
+- **GitHub:** [github.com/ip624754](https://github.com/ip624754)
+- **Public product example:** [NVRCLS](https://nvrcls.pages.dev/)
 
 ---
 
-<div align="center"><sub>Build deliberately. Verify what ships.</sub></div>
+<div align="center">
+
+<sub>Build deliberately. Verify what ships.</sub>
+
+</div>
