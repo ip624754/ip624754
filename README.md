@@ -35,6 +35,7 @@ I design and coordinate the development of digital products using modern AI codi
 | Project | My focus | Availability / maturity |
 | --- | --- | --- |
 | **CogniForge** | Creator of an AI engineering workflow and governance system with risk-adaptive execution, Truth Boundary, QA, and evidence-driven handoffs. | Personal and commercial editions; evolving |
+| **[Collabkaprbot · Telegram Collaboration Platform](https://t.me/collabkaprbot)** | AI-assisted product direction and delivery of Telegram-native collaboration workflows: applications, brand/creator deal flows, admin tools, payment-related interfaces, mobile UX, and QA. | [Open Telegram bot](https://t.me/collabkaprbot) · Private source code |
 | **SWB · Solana Alpha Tracker** | Product architecture and AI-assisted delivery for Solana wallet monitoring, Telegram alerts, ingestion, and operational observability. | Private repository |
 | **SOLSAFE Genesis** | Product and protocol architecture for NFT-based, multi-asset Solana vaults, locking modes, custody constraints, and security validation. | In development and testing; no claim of completed independent security certification |
 | **ROIDCASH** | Fintech product workflows, investor/admin interfaces, accounting-related system design, and integrations. | Private repository |
