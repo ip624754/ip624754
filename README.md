@@ -13,7 +13,7 @@ I help turn complex product ideas into structured, testable, AI-assisted softwar
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Rustam_Lukmanov-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rustamlukman/)
 [![GitHub](https://img.shields.io/badge/GitHub-ip624754-181717?logo=github&logoColor=white)](https://github.com/ip624754)
 [![Telegram](https://img.shields.io/badge/Telegram-%40Stam__W3-26A5E4?logo=telegram&logoColor=white)](https://t.me/Stam_W3)
-[![NVRCLS](https://img.shields.io/badge/Live%20site-NVRCLS-0F766E)](https://nvrcls.pages.dev/)
+[![Intro Deck](https://img.shields.io/badge/Live%20app-Intro%20Deck-0F766E)](https://intro-deck.vercel.app/)
 
 </div>
 
@@ -36,7 +36,9 @@ I design and coordinate the development of digital products using modern AI codi
 | --- | --- | --- |
 | **CogniForge** | Creator of an AI engineering workflow and governance system with risk-adaptive execution, Truth Boundary, QA, and evidence-driven handoffs. | Personal and commercial editions; evolving |
 | **[Collabkaprbot · Telegram Collaboration Platform](https://t.me/collabkaprbot)** | AI-assisted product direction and delivery of Telegram-native collaboration workflows: applications, brand/creator deal flows, admin tools, payment-related interfaces, mobile UX, and QA. | [Open Telegram bot](https://t.me/collabkaprbot) · Private source code |
-| **SWB · Solana Alpha Tracker** | Product architecture and AI-assisted delivery for Solana wallet monitoring, Telegram alerts, ingestion, and operational observability. | Private repository |
+| **[SWB · Solana Alpha Tracker](https://t.me/solwhalesbot)** | Product architecture and AI-assisted delivery for Solana wallet monitoring, Telegram alerts, ingestion, and operational observability. | [Telegram bot](https://t.me/solwhalesbot) · Private source code |
+| **[Intro Deck · Telegram-Native Application](https://intro-deck.vercel.app/)** | Product development and AI-assisted engineering of a Telegram-connected application and its web experience. | [Web app](https://intro-deck.vercel.app/) · [Telegram bot](https://t.me/introdeckbot) · Private source code |
+| **[CogniLedger Aigul · Accounting Assistant](https://t.me/CogniLedgerAigulBot)** | AI-assisted product development of a Telegram-based accounting workflow and supporting application. | [Telegram bot](https://t.me/CogniLedgerAigulBot) · Private source code |
 | **SOLSAFE Genesis** | Product and protocol architecture for NFT-based, multi-asset Solana vaults, locking modes, custody constraints, and security validation. | In development and testing; no claim of completed independent security certification |
 | **ROIDCASH** | Fintech product workflows, investor/admin interfaces, accounting-related system design, and integrations. | Private repository |
 | **WB Calm Buyer** | Telegram-native commerce product, marketplace integrations, backend workflow and persistence design. | In development; private repository |
@@ -77,7 +79,7 @@ Interested in collaborating with founders and teams on **AI-native product deliv
 - **LinkedIn:** [linkedin.com/in/rustamlukman](https://www.linkedin.com/in/rustamlukman/)
 - **Telegram:** [@Stam_W3](https://t.me/Stam_W3)
 - **GitHub:** [github.com/ip624754](https://github.com/ip624754)
-- **Public product example:** [NVRCLS](https://nvrcls.pages.dev/)
+- **Public product example:** [Intro Deck](https://intro-deck.vercel.app/) · [Telegram bot](https://t.me/introdeckbot)
 
 ---
 
